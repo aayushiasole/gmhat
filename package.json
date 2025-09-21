@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "aos": "^2.3.4",
     "bootstrap": "^5.3.8",
+    "framer-motion": "^12.23.16",
     "jspdf": "^3.0.3",
     "jspdf-autotable": "^5.0.2",
     "react": "^19.1.1",
